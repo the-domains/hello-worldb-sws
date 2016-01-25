@@ -1,0 +1,28 @@
+name: Hello Worldb sws
+favicon: null
+layout_spectrum: 0.2741067185997963
+typography_spectrum: 0.7123322449624538
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41032584477216005
+  lightness: 0.05083478009328246
+  saturation: 0.8766753415111452
+  rhythmicContrast: 0.2809653193689883
+purpose: []
