@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Schock Rechtsanwälte]]></title>
         <description><![CDATA[Schock Rechtsanwälte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hello-worldb-sws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 07:43:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 08:05:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hello-worldb-sws/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6100569b-4fe0-499d-b90c-68ae85c63a4d.jpg">]]></description>
-            <link>undefined98757e55-c271-47d3-875a-cb0d37b9e040/index.html</link>
+            <link>https://thegrid.ai/hello-worldb-sws/98757e55-c271-47d3-875a-cb0d37b9e040/index.html</link>
             <guid isPermaLink="false">98757e55-c271-47d3-875a-cb0d37b9e040</guid>
-            <pubDate>Tue, 26 Jan 2016 07:43:14 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 08:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
